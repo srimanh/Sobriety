@@ -113,7 +113,7 @@ footer {
     
 }
 
-<<<<<<< HEAD
+
 footer {
     background-color: #DFDFDF;
     color: #5C5753;
@@ -124,8 +124,7 @@ footer {
     
 }
 
-=======
->>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
+
 .footer-container {
     display: flex;
     justify-content: space-between;
@@ -134,10 +133,7 @@ footer {
     margin: 0 auto;
     padding: 0 20px;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
 .company-info h2 {
     font-size: 24px;
     font-weight: bold;
@@ -170,10 +166,7 @@ footer {
 .footer-column ul li {
     margin-bottom: 8px;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
 .footer-column ul li a {
     color: #000000;
     text-decoration: none;
@@ -191,8 +184,4 @@ footer p {
     position: relative;
     right: 530px;
     bottom: 130px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
