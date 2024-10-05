@@ -157,5 +157,148 @@ section {
     color: #9F9B9B;
     font-size: 1.1rem;
 }
+   
+/* Info Section */
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #8F5F38;
+    position: relative;
+    bottom: 60px;
+    height: 200px;
+}
+.info-content h2 {
+    font-size: 2.5rem;
+    color: #FEFCF8;
+}
+.info-content p {
+    font-size: 1rem;
+    color: #F2E9DA;
+}
+
+.info-content h3 {
+    display: block;
+    margin-bottom: 2.5rem;
+    font-size: 0.6rem;
+    color: #F1D8B9;
+}
+.info-image img {
+    width: 90px;
+    border-radius: 10px;
+}
+
+/* Sobriety vs Alcohol Section */
+.sobriety-vs-alcohol {
+    padding: 2rem;
+    background-color: #fff;
+    text-align: end;
+    position: relative;
+    bottom: 50px;
+    height: 650px;
+}
+.sobriety-vs-alcohol h2 {
+    font-size: 2.5rem;
+    position: relative;
+    bottom: 490px;
+    right: 130px;
+}
+.sobriety-vs-alcohol img {
+    position: relative;
+    right: 620px;
+    top: 30px;
+    width: 600px;
+    height: 500px;
+}
+.sobriety-vs-alcohol p {
+    font-size: 1.7rem;
+    max-width: 700px;
+    color: #9F9B9B;
+    position: relative;
+    left: 30%;
+    bottom: 450px;
     
+}
+
+/* Footer Styling */
+footer {
+    background-color: #DFDFDF;
+    color: #5C5753;
+    padding: 40px 0;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.company-info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    margin: 0;
+    color: #000000;
+}
+
+.footer-links {
+    display: flex;
+    gap: 40px; /* Space between each column */
+    left: 50px;
+}
+
+.footer-column {
+    text-align: left;
+}
+
+.footer-column h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style-type: none;
+    padding: 0;
+    color: #5C5753;
+}
+
+.footer-column ul li {
+    margin-bottom: 8px;
+}
+.footer-column ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Copyright */
+footer p {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #999999;
+    position: relative;
+    right: 530px;
+    bottom: 130px;
+}
+
+#para
+{
+    margin-left: 250px;
+    margin-right: auto;
+    padding: 30px;
+    text-align: 
+    center;
+}
+
+
+
     
