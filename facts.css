@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 /* Body Styling */
 body {
@@ -107,7 +102,7 @@ nav ul li a:hover {
 .news-link:hover h2 {
     color: #e63946;
 }
-
+/* Footer Styling */
 footer {
     background-color: #DFDFDF;
     color: #5C5753;
@@ -118,6 +113,19 @@ footer {
     
 }
 
+<<<<<<< HEAD
+footer {
+    background-color: #DFDFDF;
+    color: #5C5753;
+    padding: 40px 0;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    
+}
+
+=======
+>>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
 .footer-container {
     display: flex;
     justify-content: space-between;
@@ -126,6 +134,10 @@ footer {
     margin: 0 auto;
     padding: 0 20px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
 .company-info h2 {
     font-size: 24px;
     font-weight: bold;
@@ -158,6 +170,10 @@ footer {
 .footer-column ul li {
     margin-bottom: 8px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
 .footer-column ul li a {
     color: #000000;
     text-decoration: none;
@@ -175,4 +191,8 @@ footer p {
     position: relative;
     right: 530px;
     bottom: 130px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9f063f2619bed74d095232e82d86f1e125efc48f
